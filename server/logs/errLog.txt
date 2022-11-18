@@ -1,0 +1,8 @@
+20221106	21:53:01	7442d17a-6ada-4882-9dcb-c7a391b0aa80	TypeError: Cannot read property 'authorization' of undefined
+20221106	21:54:00	2550b8cd-6d36-481a-9c40-ccfd9d7883f5	TypeError: Cannot read property 'authorization' of undefined
+20221106	21:55:41	bca39558-04f6-44bc-9d4b-0b3f9e57518f	TypeError: Cannot read property 'authorization' of undefined
+20221106	21:56:18	38889622-cf51-49e5-a98c-f93dba5ee463	TypeError: Cannot read property 'authorization' of undefined
+20221106	21:59:51	ae9b7922-43b3-4173-b749-fbfd0411c933	TypeError: Cannot read property 'authorization' of undefined
+20221106	22:00:25	e06d9090-c574-4edc-8984-c3b6c498c406	TypeError: Cannot read property 'authorization' of undefined
+20221106	22:01:53	a4d92f3e-e91d-4d70-be19-75fdef57fd01	TypeError: Cannot read property 'authorization' of undefined
+20221106	22:10:54	99cdbbf5-3308-47a4-8d33-2a6b956d9b84	TypeError: authHeader.spli is not a function
