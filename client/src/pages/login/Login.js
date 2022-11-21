@@ -79,7 +79,7 @@ const Login = () => {
             <label htmlFor="username">Username:</label>
             <input type="text" id="username" ref={userRef} autoComplete="off" {...userAttributes} required />
             <label htmlFor="password">Password:</label>
-            <input type="text" id="password" onChange={(e) => setPwd(e.target.value)} value={pwd} required />
+            <input type="password" id="password" onChange={(e) => setPwd(e.target.value)} value={pwd} required />
             <button>Sign In</button>
             <div className="persistCheck">
                <input type="checkbox" id="persist" onChange={toggleCheck} checked={check} />
